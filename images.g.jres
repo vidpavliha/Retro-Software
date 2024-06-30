@@ -34,6 +34,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "booth2"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8AAAAA8N3d3Q8AAADwRETUDwAAAPBE1P8AAAAA8ERE/QAAAADwRETUDwAAAPBET0T9AAAA8ET/RNQPAAAA/wBPRP0AAAAAAPBE1A8AAAAAAE9EDwAAAAAA8EQPAAAAAADw/w8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cursor"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

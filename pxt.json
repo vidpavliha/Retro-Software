@@ -1,10 +1,11 @@
 {
-    "name": "Target Practice",
+    "name": "Retro software",
     "description": "",
     "dependencies": {
         "device": "*",
         "simple-blocks": "github:microsoft/arcade-tutorial-extensions/simple-blocks/",
-        "carnival": "github:microsoft/arcade-carnival#v0.0.7"
+        "carnival": "github:microsoft/arcade-carnival#v0.0.7",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1"
     },
     "files": [
         "main.blocks",
